@@ -1,1 +1,7 @@
-{}
+{
+  "dependencies": {
+    "console-log-html": "^2.0.2",
+    "repos": "^2.0.0",
+    "request": "^2.88.2"
+  }
+}
