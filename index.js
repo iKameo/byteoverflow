@@ -6,7 +6,7 @@ const _port = 3000;
 //github query stuff
 const repos = require('repos');
 const _options = {
-    token: '3bbb74e461b8b17556375021913064c99b0c1c71'
+    token: 'placeholder'
 };
 
 // repos(['byteoverflow', 'iKameo'], _options)
